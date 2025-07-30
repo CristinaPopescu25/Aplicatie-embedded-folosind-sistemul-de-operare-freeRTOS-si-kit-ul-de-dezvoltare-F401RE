@@ -1,0 +1,1 @@
+# Aplicatie-embedded-folosind-sistemul-de-operare-freeRTOS-si-kit-ul-de-dezvoltare-F401RE
